@@ -102,6 +102,12 @@ img {
   color: var(--muted);
 }
 
+.nav a[href="#servicios"],
+.nav a[href="#clientes"],
+.nav a[href="#contacto"] {
+  font-weight: 700;
+}
+
 .menu-toggle {
   display: none;
   align-items: center;
